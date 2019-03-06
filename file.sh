@@ -1,1 +1,2 @@
-java -version
+java -version && touch test.txt
+
