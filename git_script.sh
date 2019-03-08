@@ -1,1 +1,1 @@
-java -version | tee java_version.txt
+echo "Hello World! DevOps Git vs Jenkins task." | tee hello_world.txt
